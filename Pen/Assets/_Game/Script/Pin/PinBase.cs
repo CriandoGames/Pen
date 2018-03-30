@@ -7,6 +7,7 @@ namespace _Game.Script.Pin
         [SerializeField] protected float speed = 20f;
         protected Rigidbody2D rigidbody2;
 
+        protected bool isPinded = false;
 
         protected virtual void Start()
         {
@@ -28,6 +29,7 @@ namespace _Game.Script.Pin
             if (other.tag.Equals("Ball"))
             {
                 transform.SetParent(other.transform);
+                isPinded = true;
             }
         }
     }

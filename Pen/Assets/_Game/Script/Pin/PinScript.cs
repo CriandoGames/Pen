@@ -19,6 +19,7 @@ namespace _Game.Script.Pin
 
         private void Shot()
         {
+            if(!isPinded)
             rigidbody2.MovePosition(rigidbody2.position + Vector2.up * speed * Time.deltaTime);
         }
 
