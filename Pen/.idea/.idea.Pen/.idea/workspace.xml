@@ -10,41 +10,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RotateBase.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <marker date="1522428583000" expanded="true" signature="49:319" ph="{...}" />
-                <marker date="1522428583000" expanded="true" signature="97:317" ph="{...}" />
-                <marker date="1522428583000" expanded="true" signature="231:309" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Skill01Script.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <marker date="1522428581000" expanded="true" signature="57:283" ph="{...}" />
-                <marker date="1522428581000" expanded="true" signature="141:188" ph="{...}" />
-                <marker date="1522428581000" expanded="true" signature="228:275" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +24,8 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/RotateScript.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs" />
       </list>
     </option>
   </component>
@@ -61,7 +35,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1600" />
     <option name="height" value="820" />
@@ -86,29 +60,29 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
@@ -116,7 +90,7 @@
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
@@ -125,12 +99,21 @@
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Pen (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Common" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Pin" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -172,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522427911762</updated>
-      <workItem from="1522427916083" duration="602000" />
+      <workItem from="1522427916083" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="602000" />
+    <option name="totallyTimeSpent" value="1762000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,8 +172,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1600" height="820" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1600" height="820" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -200,7 +182,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -230,11 +212,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
-            <marker date="1522427889000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1522427889000" expanded="true" signature="128:249" ph="{...}" />
-            <marker date="1522427889000" expanded="true" signature="178:185" ph="{...}" />
-            <marker date="1522427889000" expanded="true" signature="240:247" ph="{...}" />
+            <marker date="1522428581000" expanded="true" signature="57:283" ph="{...}" />
+            <marker date="1522428581000" expanded="true" signature="141:188" ph="{...}" />
+            <marker date="1522428581000" expanded="true" signature="228:275" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -251,14 +240,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="330">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
-            <marker date="1522428581000" expanded="true" signature="57:283" ph="{...}" />
-            <marker date="1522428581000" expanded="true" signature="141:188" ph="{...}" />
-            <marker date="1522428581000" expanded="true" signature="228:275" ph="{...}" />
+            <marker date="1522429986000" expanded="true" signature="46:733" ph="{...}" />
+            <marker date="1522429986000" expanded="true" signature="89:731" ph="{...}" />
+            <marker date="1522429986000" expanded="false" signature="232:306" ph="{...}" />
+            <marker date="1522429986000" expanded="false" signature="316:419" ph="/// Set Speed Pin ... " />
+            <marker date="1522429986000" expanded="false" signature="461:513" ph="{...}" />
+            <marker date="1522429986000" expanded="false" signature="581:725" ph="{...}" />
+            <marker date="1522429986000" expanded="false" signature="633:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1522429844000" expanded="true" signature="6:59" ph="..." />
+            <marker date="1522429844000" expanded="true" signature="87:575" ph="{...}" />
+            <marker date="1522429844000" expanded="true" signature="126:573" ph="{...}" />
+            <marker date="1522429844000" expanded="false" signature="172:218" ph="{...}" />
+            <marker date="1522429844000" expanded="false" signature="250:290" ph="{...}" />
+            <marker date="1522429844000" expanded="false" signature="320:436" ph="{...}" />
+            <marker date="1522429844000" expanded="false" signature="505:567" ph="{...}" />
           </folding>
         </state>
       </provider>
