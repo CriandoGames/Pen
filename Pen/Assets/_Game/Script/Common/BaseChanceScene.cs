@@ -17,7 +17,7 @@ namespace _Game.Script.Common
         }
 
 
-        private IEnumerator ChangeScene()
+        protected IEnumerator ChangeScene()
         {
             yield return new WaitForSeconds(waitTime);
             SceneManager.LoadScene(NameScene.ToString());

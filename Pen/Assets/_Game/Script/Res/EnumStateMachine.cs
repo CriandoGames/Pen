@@ -2,10 +2,10 @@
 {
     public enum EnumStateMachine : byte
     {
-        StartGame,
+        STARTGAME,
         INGAME,
-        Paused,
-        GameOver,
-        Wins
+        PAUSED,
+        LOSS,
+        WINS
     }
 }

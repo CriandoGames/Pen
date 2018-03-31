@@ -4,6 +4,7 @@
     {
         Initialize,
         Menu,
+        SelectNivel,
         Nivel01,
         Nivel02,
         Nivel03,

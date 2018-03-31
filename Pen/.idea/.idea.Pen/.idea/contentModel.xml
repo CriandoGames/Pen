@@ -14,6 +14,7 @@
             <e p="Common" t="Include">
               <e p="BaseChanceScene.cs" t="Include" />
               <e p="BaseControll.cs" t="Include" />
+              <e p="BasePainelAction.cs" t="Include" />
               <e p="ManagerGamerScript.cs" t="Include" />
               <e p="PinManagerSpawnScript.cs" t="Include" />
               <e p="RotateBase.cs" t="Include" />
@@ -39,6 +40,11 @@
             <e p="SceneScripts" t="Include">
               <e p="InitializeScene" t="Include">
                 <e p="InitializerScript.cs" t="Include" />
+              </e>
+              <e p="MenuScript" t="Include">
+                <e p="BtOptionScript.cs" t="Include" />
+                <e p="BtPlayScript.cs" t="Include" />
+                <e p="BtVoltarScript.cs" t="Include" />
               </e>
             </e>
           </e>
