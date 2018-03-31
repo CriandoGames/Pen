@@ -126,6 +126,7 @@ GameObject:
   - component: {fileID: 279687880}
   - component: {fileID: 279687884}
   - component: {fileID: 279687885}
+  - component: {fileID: 279687886}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -224,6 +225,18 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &279687886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 279687879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec7c60569b3450eb7b1af2a445d7df7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textScore: {fileID: 1019347840}
 --- !u!1 &697892348
 GameObject:
   m_ObjectHideFlags: 0
@@ -339,7 +352,7 @@ GameObject:
   - component: {fileID: 1019347839}
   - component: {fileID: 1019347838}
   m_Layer: 5
-  m_Name: Text
+  m_Name: TextScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

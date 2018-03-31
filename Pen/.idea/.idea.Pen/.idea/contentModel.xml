@@ -12,15 +12,34 @@
               <e p="Skill01Script.cs" t="Include" />
             </e>
             <e p="Common" t="Include">
+              <e p="BaseChanceScene.cs" t="Include" />
               <e p="BaseControll.cs" t="Include" />
               <e p="ManagerGamerScript.cs" t="Include" />
               <e p="PinManagerSpawnScript.cs" t="Include" />
               <e p="RotateBase.cs" t="Include" />
               <e p="ScoreManagerScript.cs" t="Include" />
             </e>
+            <e p="Data" t="Include">
+              <e p="GameController.cs" t="Include" />
+              <e p="GameData.cs" t="Include" />
+              <e p="GameDataInitialize.cs" t="Include" />
+              <e p="GameSaveLoad.cs" t="Include" />
+              <e p="StartGameDataScript.cs" t="Include" />
+            </e>
             <e p="Pin" t="Include">
               <e p="PinBase.cs" t="Include" />
               <e p="PinScript.cs" t="Include" />
+            </e>
+            <e p="Res" t="Include">
+              <e p="EnumSceneNames.cs" t="Include" />
+              <e p="EnumStateMachine.cs" t="Include" />
+              <e p="SendMenssageAction.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+            </e>
+            <e p="SceneScripts" t="Include">
+              <e p="InitializeScene" t="Include">
+                <e p="InitializerScript.cs" t="Include" />
+              </e>
             </e>
           </e>
         </e>
