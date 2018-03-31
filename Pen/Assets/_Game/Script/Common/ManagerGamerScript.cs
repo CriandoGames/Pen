@@ -8,7 +8,6 @@ namespace _Game.Script.Common
         private bool hasEndGame = false;
 
 
-
         public override void Start()
         {
             base.Start();
@@ -18,12 +17,11 @@ namespace _Game.Script.Common
         {
             if (hasEndGame)
                 return;
-            
+
             base.SetEndGame();
             rotate.enabled = false;
             pinScript.enabled = false;
             hasEndGame = true;
-            
         }
 
         /// <summary>

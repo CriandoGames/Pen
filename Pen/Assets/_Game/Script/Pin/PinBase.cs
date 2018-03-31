@@ -31,6 +31,7 @@ namespace _Game.Script.Pin
             {
                 transform.SetParent(other.transform);
                 isPinded = true;
+                FindObjectOfType<ScoreManagerScript>().SetScore();
             }
             else if(other.tag.Equals("Pin"))
             {

@@ -16,6 +16,7 @@
               <e p="ManagerGamerScript.cs" t="Include" />
               <e p="PinManagerSpawnScript.cs" t="Include" />
               <e p="RotateBase.cs" t="Include" />
+              <e p="ScoreManagerScript.cs" t="Include" />
             </e>
             <e p="Pin" t="Include">
               <e p="PinBase.cs" t="Include" />
