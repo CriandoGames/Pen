@@ -2,7 +2,7 @@
 
 namespace _Game.Script.Cicles
 {
-    public class Skill01Script : RotateScript
+    public class Skill01Script : RotateBase
     {
         private void Update()
         {

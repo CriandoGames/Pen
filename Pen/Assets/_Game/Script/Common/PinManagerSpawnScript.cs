@@ -5,7 +5,7 @@ namespace _Game.Script.Common
     public class PinManagerSpawnScript : MonoBehaviour
     {
         public GameObject PinPrefabs;
-
+        
 
         private void Update()
         {

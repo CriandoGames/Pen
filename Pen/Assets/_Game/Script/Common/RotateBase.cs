@@ -2,7 +2,7 @@
 
 namespace _Game.Script.Common
 {
-    public class RotateScript : MonoBehaviour
+    public class RotateBase : MonoBehaviour
     {
         
         [SerializeField]

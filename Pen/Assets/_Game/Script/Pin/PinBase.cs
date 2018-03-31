@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using _Game.Script.Common;
 
 namespace _Game.Script.Pin
 {
@@ -30,6 +31,11 @@ namespace _Game.Script.Pin
             {
                 transform.SetParent(other.transform);
                 isPinded = true;
+            }
+            else if(other.tag.Equals("Pin"))
+            {
+                print("OK");
+                FindObjectOfType<ManagerGamerScript>().EndGame();
             }
         }
     }

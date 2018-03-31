@@ -11,37 +11,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PinScript.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs">
+      <file leaf-file-name="BaseControll.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/BaseControll.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="160">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding>
-                <marker date="1522439833000" expanded="true" signature="6:59" ph="..." />
-                <marker date="1522439833000" expanded="true" signature="87:601" ph="{...}" />
-                <marker date="1522439833000" expanded="true" signature="126:599" ph="{...}" />
-                <marker date="1522439833000" expanded="true" signature="172:218" ph="{...}" />
-                <marker date="1522439833000" expanded="true" signature="250:290" ph="{...}" />
-                <marker date="1522439833000" expanded="true" signature="320:462" ph="{...}" />
-                <marker date="1522439833000" expanded="true" signature="531:593" ph="{...}" />
+                <marker date="1522461726000" expanded="true" signature="49:610" ph="{...}" />
+                <marker date="1522461726000" expanded="true" signature="116:608" ph="{...}" />
+                <marker date="1522461726000" expanded="true" signature="310:499" ph="{...}" />
+                <marker date="1522461726000" expanded="true" signature="538:602" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PinBase.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs">
+      <file leaf-file-name="ManagerGamerScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/ManagerGamerScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="65" lean-forward="false" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+            <state relative-caret-position="166">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <marker date="1522439830000" expanded="true" signature="46:807" ph="{...}" />
-                <marker date="1522439830000" expanded="true" signature="89:805" ph="{...}" />
-                <marker date="1522439830000" expanded="false" signature="273:347" ph="{...}" />
-                <marker date="1522439830000" expanded="false" signature="357:460" ph="/// Set Speed Pin ... " />
-                <marker date="1522439830000" expanded="false" signature="502:554" ph="{...}" />
-                <marker date="1522439830000" expanded="false" signature="622:799" ph="{...}" />
-                <marker date="1522439830000" expanded="true" signature="674:789" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="6:42" ph="..." />
+                <marker date="1522461730000" expanded="true" signature="223:269" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="300:535" ph="{...}" />
+                <marker date="1522461730000" expanded="false" signature="545:619" ph="/// set True or False HasgAme ... " />
+                <marker date="1522461730000" expanded="false" signature="652:703" ph="{...}" />
+                <marker date="1522461730000" expanded="false" signature="713:811" ph="/// Return HasEndGame ... " />
+                <marker date="1522461730000" expanded="false" signature="847:903" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateBase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1522460604000" expanded="true" signature="49:317" ph="{...}" />
+                <marker date="1522460604000" expanded="true" signature="95:315" ph="{...}" />
+                <marker date="1522460604000" expanded="true" signature="229:307" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,14 +61,14 @@
       <file leaf-file-name="PinManagerSpawnScript.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/PinManagerSpawnScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+            <state relative-caret-position="154">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
-                <marker date="1522439418000" expanded="true" signature="49:442" ph="{...}" />
-                <marker date="1522439418000" expanded="true" signature="106:440" ph="{...}" />
-                <marker date="1522439418000" expanded="true" signature="182:304" ph="{...}" />
-                <marker date="1522439418000" expanded="true" signature="238:294" ph="{...}" />
-                <marker date="1522439418000" expanded="true" signature="337:434" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="49:450" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="106:448" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="190:312" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="246:302" ph="{...}" />
+                <marker date="1522461730000" expanded="true" signature="345:442" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,9 +77,11 @@
     </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/BaseControll.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/PinManagerSpawnScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/ManagerGamerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -76,11 +89,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/RotateScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Cicles/Skill01Script.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/PinManagerSpawnScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/ControlAnimationCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/ManagerGamerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/PinManagerSpawnScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Script/Common/BaseControll.cs" />
       </list>
     </option>
   </component>
@@ -90,8 +106,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="34" />
     <option name="y" value="23" />
     <option name="width" value="1600" />
     <option name="height" value="820" />
@@ -143,6 +159,15 @@
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Pen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_Game" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Cicles" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -203,12 +228,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522427911762</updated>
       <workItem from="1522427916083" duration="1762000" />
-      <workItem from="1522438514196" duration="1193000" />
+      <workItem from="1522438514196" duration="3741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2955000" />
+    <option name="totallyTimeSpent" value="5503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -220,7 +245,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1600" height="820" extended-state="1" />
+    <frame x="34" y="23" width="1600" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -262,19 +287,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1522460606000" expanded="true" signature="57:281" ph="{...}" />
+            <marker date="1522460606000" expanded="true" signature="103:279" ph="{...}" />
+            <marker date="1522460606000" expanded="true" signature="139:186" ph="{...}" />
+            <marker date="1522460606000" expanded="true" signature="226:273" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="513">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <marker date="1522460901000" expanded="true" signature="6:45" ph="..." />
+            <marker date="1522460901000" expanded="true" signature="73:1002" ph="{...}" />
+            <marker date="1522460901000" expanded="true" signature="116:1000" ph="{...}" />
+            <marker date="1522460901000" expanded="false" signature="300:374" ph="{...}" />
+            <marker date="1522460901000" expanded="false" signature="384:487" ph="/// Set Speed Pin ... " />
+            <marker date="1522460901000" expanded="false" signature="529:581" ph="{...}" />
+            <marker date="1522460901000" expanded="true" signature="649:994" ph="{...}" />
+            <marker date="1522460901000" expanded="true" signature="701:816" ph="{...}" />
+            <marker date="1522460901000" expanded="true" signature="861:984" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="462">
           <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
             <marker date="1522439833000" expanded="true" signature="6:59" ph="..." />
@@ -290,30 +332,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/PinManagerSpawnScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+        <state relative-caret-position="154">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding>
-            <marker date="1522439418000" expanded="true" signature="49:442" ph="{...}" />
-            <marker date="1522439418000" expanded="true" signature="106:440" ph="{...}" />
-            <marker date="1522439418000" expanded="true" signature="182:304" ph="{...}" />
-            <marker date="1522439418000" expanded="true" signature="238:294" ph="{...}" />
-            <marker date="1522439418000" expanded="true" signature="337:434" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="49:450" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="106:448" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="190:312" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="246:302" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="345:442" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Pin/PinBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/RotateBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="65" lean-forward="false" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1522439830000" expanded="true" signature="46:807" ph="{...}" />
-            <marker date="1522439830000" expanded="true" signature="89:805" ph="{...}" />
-            <marker date="1522439830000" expanded="false" signature="273:347" ph="{...}" />
-            <marker date="1522439830000" expanded="false" signature="357:460" ph="/// Set Speed Pin ... " />
-            <marker date="1522439830000" expanded="false" signature="502:554" ph="{...}" />
-            <marker date="1522439830000" expanded="false" signature="622:799" ph="{...}" />
-            <marker date="1522439830000" expanded="true" signature="674:789" ph="{...}" />
+            <marker date="1522460604000" expanded="true" signature="49:317" ph="{...}" />
+            <marker date="1522460604000" expanded="true" signature="95:315" ph="{...}" />
+            <marker date="1522460604000" expanded="true" signature="229:307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/ManagerGamerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1522461730000" expanded="true" signature="6:42" ph="..." />
+            <marker date="1522461730000" expanded="true" signature="223:269" ph="{...}" />
+            <marker date="1522461730000" expanded="true" signature="300:535" ph="{...}" />
+            <marker date="1522461730000" expanded="false" signature="545:619" ph="/// set True or False HasgAme ... " />
+            <marker date="1522461730000" expanded="false" signature="652:703" ph="{...}" />
+            <marker date="1522461730000" expanded="false" signature="713:811" ph="/// Return HasEndGame ... " />
+            <marker date="1522461730000" expanded="false" signature="847:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Game/Script/Common/BaseControll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <marker date="1522461726000" expanded="true" signature="49:610" ph="{...}" />
+            <marker date="1522461726000" expanded="true" signature="116:608" ph="{...}" />
+            <marker date="1522461726000" expanded="true" signature="310:499" ph="{...}" />
+            <marker date="1522461726000" expanded="true" signature="538:602" ph="{...}" />
           </folding>
         </state>
       </provider>
